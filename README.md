@@ -1,9 +1,6 @@
 # ts-assistant
 
 Estudos com typescript -> TCC
-
-# TS-Assistant
-
 Este é um projeto para um chatbot inteligente que responde a mensagens de usuários com respostas prontas.
 
 ## Instalação
