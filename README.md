@@ -2,7 +2,6 @@
 
 Estudos com typescript -> TCC
 
-```markdown
 # TS-Assistant
 
 Este é um projeto para um chatbot inteligente que responde a mensagens de usuários com respostas prontas.
