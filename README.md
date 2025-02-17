@@ -57,7 +57,7 @@ ts-assistant/
 ├── index.html
 ├── package.json
 ├── tsconfig.json          # Configuração TypeScript
-├── tailwind.config.json          # Configuração Tailwind
+├── tailwind.config.json   # Configuração Tailwind
 ├── vite.config.ts         # Configuração Vite
 ├── README.md
 ```
